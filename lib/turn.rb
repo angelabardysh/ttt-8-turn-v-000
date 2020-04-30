@@ -1,5 +1,3 @@
-require_relative '../lib/turn'
-
 board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(board)
